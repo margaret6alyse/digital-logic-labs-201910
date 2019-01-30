@@ -29,6 +29,6 @@ the transistor of the Nor gate). Answer the following quuestion
 
 ## Explain how NOR Gate works with pictures of different current flow scenarios. (2 pts)
 Both Switches off:
-![](pics/"NOR gate 00.jpg")
+![](pics/NOR gate 00.jpg)
 
 ## Explain how Final Gate works with pictures of different current flow scenarios. (2 pts)
