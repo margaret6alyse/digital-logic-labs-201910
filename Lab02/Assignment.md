@@ -30,20 +30,20 @@ AND Gate Logic
 
 ## Explain how NOR Gate works with pictures of different current flow scenarios. (2 pts)
 Both Switches Off:
-![](pics/"NOR gate 00.jpg")
+![](pics/'NOR gate 00.jpg')
 
 One Switch On, One Switch Off:
-![](pics/NOR gate 01.jpg")
+![](pics/'NOR gate 01.jpg')
 
 Both Switches On:
-![](pics/"NOR gate 11.jpg")
+![](pics/'NOR gate 11.jpg')
 
 ## Explain how Final Gate works with pictures of different current flow scenarios. (2 pts)
 Both Switches Off:
-![](pics/"Final Gate 00.jpg")
+![](pics/'Final Gate 00.jpg')
 
 One Switch On, One Switch Off:
-![](pics/"Final Gate 01.jpg")
+![](pics/'Final Gate 01.jpg')
 
 Both Switches On:
-![](pics/"Final Gate 11.jpg")
+![](pics/'Final Gate 11.jpg')
